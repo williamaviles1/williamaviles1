@@ -4,10 +4,11 @@
 <h2>👨‍💻  IT/Cloud Projects:</h2>
 
 - <b>Cloud</b>
-  - Under Construction... 🦺
+  - File Upload Notification System
+  - Build a Serverless Website using AWS
 - <b>PowerShell</b>
-  -  Cloud Uploader CLI Overview/Walkthrough
-  -  [Tutorial Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
+  -  [Cloud Uploader CLI Overview/Walkthrough](https://github.com/williamaviles1/CloudUploader-CLI/tree/main)
+  -  Active Directory Home Lab
 
 
 
