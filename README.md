@@ -3,10 +3,16 @@
 
 <h2>👨‍💻  CyberSecurity/Cloud Projects:</h2>
 
-- <b>Cloud</b>
+### ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/williamaviles1/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+### ☁️ Cloud
   - File Upload Notification System
   - Build a Serverless Website using AWS
-- <b>PowerShell</b>
+
+### 💪 PowerShell
   -  [Cloud Uploader CLI Overview/Walkthrough](https://github.com/williamaviles1/CloudUploader-CLI/tree/main)
   -  Active Directory Home Lab
 
