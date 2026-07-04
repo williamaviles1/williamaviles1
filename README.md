@@ -5,7 +5,7 @@
 
 ### ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/williamaviles1/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/williamaviles1/vulnerability-management-project)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ### ☁️ Cloud
