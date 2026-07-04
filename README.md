@@ -1,7 +1,7 @@
 <h1>Hi, I'm William! <br/><a href="https://www.linkedin.com/in/william-aviles-aparicio-a87848230">IT Professional</a>, <a href="https://github.com/williamaviles1/">Cloud Enthusiast</a></h1>
 
 
-<h2>👨‍💻  IT/Cloud Projects:</h2>
+<h2>👨‍💻  CyberSecurity/Cloud Projects:</h2>
 
 - <b>Cloud</b>
   - File Upload Notification System
